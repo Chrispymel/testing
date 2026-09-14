@@ -1,1 +1,3 @@
-# testing
+export default {
+ base: '/babytimemapper/',
+}
